@@ -9,8 +9,6 @@ _build
 /build
 phpunit.xml
 composer.lock
-composer.phar
-vendor
 /report
 /build
 /samples/results
